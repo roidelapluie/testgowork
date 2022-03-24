@@ -1,7 +1,7 @@
 package main
 
-import "github.com/roidelapluie/testgowork/helloprint"
+import "github.com/roidelapluie/testgowork/notfriendly"
 
 func main() {
-	helloprint.Print()
+	notfriendly.Print()
 }

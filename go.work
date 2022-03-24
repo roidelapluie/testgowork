@@ -1,1 +1,6 @@
+go 1.18
+
+use .
+
 replace github.com/roidelapluie/testgowork/helloprint => ./helloprint
+replace github.com/roidelapluie/testgowork/notfriendly => ./notfriendly
